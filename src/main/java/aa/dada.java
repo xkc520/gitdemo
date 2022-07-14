@@ -4,8 +4,6 @@ public class dada {
     public static void main(String[] args) {
         System.out.println("???");
         System.out.println("hellp");
-    System.out.println("!!!!");
-        System.out.println("aa");
-        System.out.println("aaaaaaa");
+  
     }
 }
